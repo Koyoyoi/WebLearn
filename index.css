@@ -3,10 +3,10 @@
   margin: 0;
 }
 header{
-    background-color: #622954;
+    background-color: rgba(98, 41, 84, 8);
     height: 80px;
     width:  100%;
-    position: relative;
+    position: fixed;
 }
 h1{
    color: #FEDFE1;
@@ -61,11 +61,11 @@ header li{
 footer{
   background-color: #656756;
   color:  #FEDFE1;
-  height: 250px;
+  height: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 1.8em;
 }
 footer a{
