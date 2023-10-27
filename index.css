@@ -3,7 +3,7 @@
   margin: 0;
 }
 header{
-    background-color: rgba(98, 41, 84, 8);
+    background-color: rgba(98, 41, 84, 0.8);
     height: 80px;
     width:  100%;
     position: fixed;
