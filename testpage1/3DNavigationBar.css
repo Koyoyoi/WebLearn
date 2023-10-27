@@ -6,6 +6,11 @@ body{
 ul{
   position: relative;
   transform: skewY(-15deg); 
+  top: 20vh;
+  display:flex; 
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
 }
 li{
   position: relative;
