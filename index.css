@@ -19,6 +19,9 @@ herder a{
    color: #FEDFE1;
    text-decoratinon: none;
 }
+herder a:hover{
+  text-decoration: underline;
+}
 herder ul{
   position: absolute;
   right: 5vw;
