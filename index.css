@@ -32,3 +32,18 @@ header li{
   display: inline;
   margin-right: 4vw;
 }
+.s1{
+  background-color: #FEDFE1;
+  color: white;
+  height: 85vh;
+  background-image: url("images/4.id=60684105.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.s1 h2{
+  font-size: 60px;
+}
