@@ -2,3 +2,30 @@
   padding: 0;
   margin: 0;
 }
+header{
+    background-color: #64364C;
+    height: 80px;
+    width:  100px;
+    position: relative;
+}
+h1{
+   color: #FEDFE1;
+   position: absolute;
+   left: 120px;
+   top: 0;
+   line-height: 80px;
+}
+herder a{
+   color: #FEDFE1;
+   text-decoratinon: none;
+}
+herder ul{
+  position: absolute;
+  right: 5vw;
+  top: 0;
+  line-height: 80px:
+}
+herder li{
+  display: inline;
+  margin-right: 4vw;
+}
