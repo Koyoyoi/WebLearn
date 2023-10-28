@@ -65,7 +65,7 @@ header li{
 footer{
   background-color: #656756;
   color:  #FEDFE1;
-  height: 60px;
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -77,6 +77,7 @@ footer a{
   border: 1px solid #FEDFE1;
   padding: 10px 20px;
   border-radius: 5px;
+  font-size: 20px;
 }
 .s3{
   display: flex;
@@ -96,7 +97,7 @@ footer a{
 /* 響應式設計語法 */
 @media screen and (max-width: 768px) {
   header{
-    height: 160px;
+    height: 80px;
   }
   header ul {
       display:none;
@@ -104,6 +105,7 @@ footer a{
   header h1 {
       left:50%;
       transform: translateX(-50%);
+      font-size: 20px;
   }
   .s1 {
       flex-direction: column;
