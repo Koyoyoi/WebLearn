@@ -105,9 +105,6 @@ footer a{
       left:50%;
       transform: translateX(-50%);
   }
-  h2 {
-      font-size:40px;
-  }
   .s1 {
       flex-direction: column;
   }
