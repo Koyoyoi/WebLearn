@@ -9,7 +9,7 @@ header{
     position: fixed;
 }
 a {
-  text-decoration:none;
+  text-decoration: none;
 }
 h1{
    color: #FEDFE1;
@@ -29,7 +29,7 @@ header ul{
   position: absolute;
   right: 5vw;
   top: 40px;
-  line-height: 80px:
+  line-height: 80px;
 }
 header li{
   display: inline;
@@ -73,9 +73,18 @@ footer{
   line-height: 1.8em;
 }
 footer a{
-  color: #FEDFE1
-  text-decoration: none;
+  color: #FEDFE1;
   border: 1px solid #FEDFE1;
   padding: 10px 20px;
   border-radius: 5px;
+}
+.s3{
+  display: flex;
+  background-color: #ede9db;
+  justify-content: space-between;
+  padding: 100px 180px 80px;
+}
+.s3 div{
+  width: 300px;
+  border-radius: 10px;
 }
