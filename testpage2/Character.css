@@ -25,6 +25,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     transition: all 1000ms;
+    filter: grayscale(100%) opacity(30%);
 }
 .container:hover .box{
     filter: grayscale(100%) opacity(50%);
