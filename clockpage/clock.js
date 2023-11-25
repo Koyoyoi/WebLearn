@@ -13,19 +13,19 @@ class ProgressClock {
 	getDayOfWeek(day) {
 		switch (day) {
 			case 1:
-				return "Monday";
+				return "月曜日";
 			case 2:
-				return "Tuesday";
+				return "火曜日";
 			case 3:
-				return "Wednesday";
+				return "水曜日";
 			case 4:
-				return "Thursday";
+				return "木曜日";
 			case 5:
-				return "Friday";
+				return "金曜日";
 			case 6:
-				return "Saturday";
+				return "土曜日";
 			default:
-				return "Sunday";
+				return "日曜日";
 		}
 	}
 	getMonthInfo(mo,yr) {
